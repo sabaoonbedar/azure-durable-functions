@@ -10,7 +10,7 @@ This project demonstrates how to use **Azure Durable Functions in Python** with 
 
 ## 📦 Project Structure
 
-📁 your_project/
+📁 azure_func/
 │
 ├── activity1.py
 ├── activity2.py
