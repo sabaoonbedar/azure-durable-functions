@@ -10,3 +10,11 @@ This project demonstrates how to use **Azure Durable Functions in Python** with 
 
 ## 📦 Project Structure
 
+📁 your_project/
+│
+├── activity1.py
+├── activity2.py
+├── orchestrator.py
+├── main.py # Registers all blueprints to DFApp
+├── requirements.txt
+└── host.json # Azure Functions host configuration
